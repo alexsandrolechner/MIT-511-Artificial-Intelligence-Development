@@ -120,7 +120,3 @@ MIT License © 2025 Alexsandro Lechner
 - Licença
 
 ---
-
-## 🔜 Pergunta:
-Quer que eu **gere o arquivo README.md pronto para download** e já coloque no formato Markdown, ou quer que eu **adicione esse README diretamente no seu projeto e suba para o GitHub junto com o código?**
-```
