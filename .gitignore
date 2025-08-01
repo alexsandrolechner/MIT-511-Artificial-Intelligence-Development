@@ -1,0 +1,51 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pesos de modelos e checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Arquivos de configuração locais
+*.env
+*.ini
+*.cfg
+
+# Pastas de build/output
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+*.tmp
+
+# IDEs e editor
+.idea/
+.vscode/
+
+# Dados temporários e datasets locais
+imagens/
+datasets/
+output/
+runs/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Notebooks temporários
+.ipynb_checkpoints/
