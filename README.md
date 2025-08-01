@@ -1,6 +1,3 @@
-Segue um **README.md** estruturado para o seu projeto de **Reconhecimento de Emoções com YOLOv8 + DeepFace**, explicando claramente o que o projeto faz, como rodar e os requisitos.
-
----
 
 ## 📌 README.md
 
