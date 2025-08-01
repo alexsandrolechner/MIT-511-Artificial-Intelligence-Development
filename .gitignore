@@ -34,7 +34,7 @@ dist/
 .vscode/
 
 # Dados temporários e datasets locais
-imagens/
+!imagens/*
 datasets/
 output/
 runs/
